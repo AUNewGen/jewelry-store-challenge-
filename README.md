@@ -1,4 +1,4 @@
-# jewelry-store-challenge-
+# jewelry-store-challenge
 The assignment will consist of two parts:  
 • Frontend in React/Angular  
 • Backend in ASP.NET Core and Database can be local DB / In memory 
@@ -42,7 +42,9 @@ Expectations:
 well) 
 • Please use best practices everywhere 
 
-Below are the suggested screens for your reference. Please feel free a fresh looking one based on your preference 
+Below are the suggested screens for your reference. please feel free to create new UI/UX based on your preference.
+
+Note: In case you are only comfortable with asp.net core please create a REST API with different endpoint, write postman testcases to simulate the workflow.
 
 ## :arrow_down: 
 
