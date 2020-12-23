@@ -46,9 +46,9 @@ Below are the suggested screens for your reference. Please feel free a fresh loo
 
 ## :arrow_down: 
 
-![Login Screen](LoginScreen.png)
+![Login Screen](LoginScreen.PNG)
 
 
-![Estimation Screen](EstimationScreen.png)
+![Estimation Screen](EstimationScreen.PNG)
 
 
