@@ -42,9 +42,9 @@ Expectations:
 well) 
 * Please use best practices everywhere 
 
-<b> Note: In case you are only comfortable with asp.net core please create a REST API with different endpoint, write postman testcases to simulate the workflow.</b>
+<b> Note: In case you are only comfortable with asp.net core, please create a REST API with different endpoint, write postman testcases to simulate the workflow.</b>
 
-Below are the suggested screens for your reference. please feel free to create new UI/UX based on your preference.
+Below are the suggested screens for your reference. Please feel free to create new UI/UX based on your preference.
 
 ## :arrow_down: 
 
