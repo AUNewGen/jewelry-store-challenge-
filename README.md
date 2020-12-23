@@ -37,10 +37,10 @@ database.
  
 
 Expectations:   
-• Both the frontend and backend must have unit tests. 
-• The front-end application must invoke the backend APIs to do CRUD operations (applicable for login as 
+* Both the frontend and backend must have unit tests. 
+* The front-end application must invoke the backend APIs to do CRUD operations (applicable for login as 
 well) 
-• Please use best practices everywhere 
+* Please use best practices everywhere 
 
 <b> Note: In case you are only comfortable with asp.net core please create a REST API with different endpoint, write postman testcases to simulate the workflow.</b>
 
